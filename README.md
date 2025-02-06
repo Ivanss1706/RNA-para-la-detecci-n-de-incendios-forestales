@@ -4,4 +4,4 @@ Este repositorio contiene un proyecto para la detección de incendios forestales
 
 ## Descripción General
 
-Los incendios forestales representan un grave problema ambiental y económico. La detección temprana es crucial para minimizar su impacto. Este proyecto aborda este desafío mediante el uso de técnicas de aprendizaje profundo, específicamente Redes Neuronales Artificiales (RNA), para analizar imágenes satelitales y detectar la presencia de incendios.
+Los incendios forestales representan un grave problema ambiental y económico. La detección temprana es crucial para minimizar su impacto. Este proyecto aborda este desafío mediante el uso de técnicas de aprendizaje profundo, específicamente Redes Neuronales Artificiales (RNA), para analizar imágenes y detectar la presencia de incendios.
